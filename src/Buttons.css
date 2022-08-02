@@ -1,0 +1,117 @@
+
+:root {
+    --primary:#29395a;
+    --secondary:#405780;
+    --third:#9ab6ff;
+    --forth:#ffc885;
+    --fith:#f85800;
+  
+    --sixth:#30405c;
+    --seventh:#4495aa;
+    --eighth:#96a4c9;
+    --ninth:#f3b546;
+    --tenth:#f27659;
+  }
+  
+  body {
+    height:1010px;
+  
+      background-color:  var(--primary);
+               
+                  /* animation: gradient 10s ease infinite; */
+    }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&family=Poppins:wght@200;300;400;500;600&display=swap');
+  
+
+
+/* /*********Button CSS***********************************************************************************************************************/
+
+#startbutton
+{
+  background-color:#e9ab12;
+  border: #970104 solid;
+  border-width: 5px;
+  border-radius: 50px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-family: josefin sans;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 30% ;
+
+	justify-content: center;
+ 
+}
+
+.add-submit {
+	display: flex;
+	justify-content: center;
+}
+
+/* /*************Main Page CSS*******************************************************************************************************************/
+.logoutButton {
+  position: absolute;
+  margin-top: 3%;
+  margin-left: 85%;
+  background-color:var(--ninth);
+  border: var(--primary) solid;
+  border-width: 5px;
+  border-radius: 50px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  /* display: inline-block; */
+  font-size: 20px;
+  font-family: poppins;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  /* width: 10% ; */
+
+}
+
+.logoutButton :hover {
+  position: absolute;
+  margin-top: 3%;
+  margin-left: 85%;
+  background-color:var(--third);
+  border: var(--primary) solid;
+  border-width: 5px;
+  border-radius: 50px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  /* display: inline-block; */
+  font-size: 20px;
+  font-family: poppins;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  /* width: 10% ; */
+
+}
+
+
+.updatebutton {
+
+  background-color:var(--ninth);
+  border: var(--primary) solid;
+  border-width: 5px;
+  border-radius: 50px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: poppins;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  /* width: 15% ; */
+
+}
+
+/* .buttonspace {
+
+  margin: 10px;
+} */

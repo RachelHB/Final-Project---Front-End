@@ -1,0 +1,214 @@
+
+:root {
+    --primary:#29395a;
+    --secondary:#405780;
+    --third:#9ab6ff;
+    --forth:#ffc885;
+    --fith:#f85800;
+  
+    --sixth:#30405c;
+    --seventh:#4495aa;
+    --eighth:#96a4c9;
+    --ninth:#f3b546;
+    --tenth:#f27659;
+  }
+  
+  body {
+    height:1010px;
+  
+      background-color:  var(--primary);
+               
+                  /* animation: gradient 10s ease infinite; */
+    }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&family=Poppins:wght@200;300;400;500;600&display=swap');
+  
+
+
+/* /*********Login CSS***********************************************************************************************************************/
+
+.mainContainer {
+    background-color: white;
+    position: relative;
+    margin: 50px;
+    border-radius: 10px;
+    display: flex;
+    height: auto;
+    min-width: min-content;
+    padding:20px;
+    font-family: poppins;
+   
+  }
+
+  .column1 {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    background-color: var(--seventh);
+    border: var(--primary) solid;
+    border-width: 2px;
+    width: 30%;
+    min-width: min-content;
+  }
+  
+  @media screen and (max-width: 600px){
+    .column1 {
+      width: 30%;
+      
+    }
+  }
+  
+  
+  .image {
+    background-color: var(--seventh);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .socialMedia {
+    margin: 20px;
+  }
+  
+  .socialSpacing {
+    padding: 20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* /*************Column 2 Main - Profiler Information - Name, Title*******************************************************************************************************************/
+  
+  .column2 {
+    background-color: white;
+    /* display: inline-block; */
+    width: 66%;
+    margin-left: 5px;
+    border: var(--primary) solid;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  
+  
+  
+  /* /*************Column 2 Section 1 - User input data information form*****************************************************************************************************************/
+  
+  .column2Section1 {
+    background-color:  var(--seventh);
+    display: inline-block; 
+    /* margin: 20px; */
+    /* padding: 20px; */
+    align-items: center;
+    width: 100%;
+    
+  }
+  
+  .form-col-one{
+    width: 50%;
+    float:left;
+    justify-content: space-around;  
+  } 
+  
+  .add-submit{
+    padding-top: 15px;
+    padding-left: 15px;
+    justify-content: space-between;
+  }
+  
+  .sub-entry{
+    padding-left: 15px;
+  }
+  
+ 
+  /* /*************Column 2 Section 2 - View of users input data*****************************************************************************************************************/
+  /* .column2Section23 { */
+    /* background-color: var(--primary); */
+    /* padding-left: 20px; */
+    /* display: block;  */
+    /* flex-direction: column; */
+    /* align-items: center;
+    width: 100%; */
+    /* padding-bottom: 20px; */
+  
+  /* } */
+  @media screen and (max-width: 600px){
+    .col1, .col2 {
+      flex-direction: column;
+      float: left;
+    }
+  }
+  
+  .card {
+  
+    font-family: poppins;
+    font-size: 16px;
+    
+  }
+  
+  /* .cols {
+    /* display: flex; */
+    /* align-items: center; */
+   */
+  
+  .col1 {
+    width:100%;
+    display: inline-block;
+      /* overflow-wrap: anywhere; */
+    word-break: break-word;
+    
+  }
+  
+  
+  /* .col2 {
+    width: 50%;
+    overflow-wrap: break-word; 
+    word-wrap: break-word;
+  } */
+  
+  .fieldSpace {
+    display: flexbox;
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+  
+  
+  .select {
+  
+    padding: 50px;
+  }
+
+  .gradCard1 {
+    background-color: var(--ninth);
+    margin-bottom: 20px;
+    border-radius:10px;
+    padding:10px;
+    font-size: 15px;
+    font-family: poppins;
+  }
+
+  .EmployerForm{
+    font-size: 16px;
+
+  }
+
+  .EmployerForm input{
+    margin:  0px 0px 0px 0px;
+  }
+
+  .EmployerForm label{
+    margin: 0px 20px 0px 3px;
+  }
+  
+  .row{
+    justify-content: space-around;
+  }
+
+  .Boxsize{
+   width: 20px;
+   height:20px;
+   cursor: pointer;
+  }

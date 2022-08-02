@@ -1,0 +1,240 @@
+
+:root {
+  --primary:#29395a;
+  --secondary:#405780;
+  --third:#9ab6ff;
+  --forth:#ffc885;
+  --fith:#f85800;
+
+  --sixth:#30405c;
+  --seventh:#4495aa;
+  --eighth:#96a4c9;
+  --ninth:#f3b546;
+  --tenth:#f27659;
+}
+
+
+.body {
+  height:1040px;
+
+    background-color:  var(--primary);
+             
+                /* animation: gradient 10s ease infinite; */
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&family=Poppins:wght@200;300;400;500;600&display=swap');
+
+
+.navbar {
+  background-color: rgb(243, 181, 70);
+}
+
+/* /*************Main Page CSS*******************************************************************************************************************/
+
+
+.mainContainer {
+  background-color: white;
+  position: relative;
+  margin: 50px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+  min-width: min-content;
+  padding:20px;
+  font-family: poppins;
+ 
+}
+
+
+
+/* /*************Column 1 - Profile Image and Social Media*******************************************************************************************************************/
+
+
+
+.column1 {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  background-color: var(--seventh);
+  border: var(--ninth) solid;
+  border-width: 2px;
+  border-radius: 10px;
+  width: 30%;
+  min-width: min-content;
+  word-break: break-word;
+}
+
+
+@media screen and (max-width: 600px){
+  .column1 {
+    width: 30%;
+    
+  }
+}
+
+
+.image {
+  background-color: var(--seventh);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.socialMedia {
+  margin: 20px;
+  
+}
+
+.socialSpacing {
+  padding: 20px;
+}
+
+
+/* /*************Column 2 Main - Profiler Information - Name, Title*******************************************************************************************************************/
+
+.column2 {
+  background-color: white;
+  /* display: inline-block; */
+  width: 66%;
+  margin-left: 5px;
+  border: var(--ninth) solid;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 8px;
+}
+
+.fieldSpace {
+  font-size: 14px;
+}
+
+/* ******************User field****************************** */
+.userField {
+  background-color: rgb(48, 64, 92);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.user {
+  font-size: 14px;
+}
+
+
+
+/* /*************Column 2 Section 1 - User input data information form*****************************************************************************************************************/
+
+.column2Section11 {
+  background-color:   var(--secondary);
+  display:inline-flex;
+  justify-content: space-around;
+  width: 100%;
+  border-radius: 10px;
+  border-width: 2px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+
+.add-submit{
+  justify-content: space-between;
+}
+
+
+/* /*************Column 2 Section 2 - View of users input data*****************************************************************************************************************/
+.column2Section22 {
+  background-color: var(--ninth);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 600px){
+  .col1, .col2 {
+    flex-direction: column;
+    float: left;
+  }
+}
+
+.card {
+
+  font-family: poppins;
+  font-size: 14px;
+  
+}
+
+
+
+.col1 {
+  width:100%;
+  display: inline-block;
+    /* overflow-wrap: anywhere; */
+  word-break: break-word;
+  font-size: 14px;
+  
+}
+
+
+/* .col2 {
+  width: 50%;
+  overflow-wrap: break-word; 
+  word-wrap: break-word;
+} */
+
+.cvSpace {
+  display: flexbox;
+  padding-top:20px;
+  /* padding-bottom:20px; */
+  display: flex;
+  justify-content:center;
+  font-size: 14px;
+}
+
+.profilePicture {
+  display: flexbox;
+  /* padding-bottom:20px; */
+  display: flex;
+  justify-content:center;
+  font-size: 14px;
+}
+
+.profileImage {
+  border: none;
+  border-radius: 60px;
+  font-size: 14px;
+
+}
+
+.smediaIcon {
+  display: flexbox;
+  padding-top:35px;
+  /* padding-bottom:20px; */
+  display: flex;
+  justify-content:center;
+  font-size: 14px;
+}
+.smediaLink {
+  display: flexbox;
+  padding-top:5px;
+  /* padding-bottom:20px; */
+  display: flex;
+  justify-content:center;
+  font-size: 14px;
+}
+
+
+.select {
+
+  padding: 50px;
+}
+

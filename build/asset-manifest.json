@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project-9---Front-End-Event-App/static/css/main.dccd1fea.chunk.css",
+    "main.js": "/Project-9---Front-End-Event-App/static/js/main.396e49df.chunk.js",
+    "main.js.map": "/Project-9---Front-End-Event-App/static/js/main.396e49df.chunk.js.map",
+    "runtime-main.js": "/Project-9---Front-End-Event-App/static/js/runtime-main.0a9a7bfc.js",
+    "runtime-main.js.map": "/Project-9---Front-End-Event-App/static/js/runtime-main.0a9a7bfc.js.map",
+    "static/js/2.fcb46e98.chunk.js": "/Project-9---Front-End-Event-App/static/js/2.fcb46e98.chunk.js",
+    "static/js/2.fcb46e98.chunk.js.map": "/Project-9---Front-End-Event-App/static/js/2.fcb46e98.chunk.js.map",
+    "index.html": "/Project-9---Front-End-Event-App/index.html",
+    "precache-manifest.a35bfa83eabaccb049161f324eec088a.js": "/Project-9---Front-End-Event-App/precache-manifest.a35bfa83eabaccb049161f324eec088a.js",
+    "service-worker.js": "/Project-9---Front-End-Event-App/service-worker.js",
+    "static/css/main.dccd1fea.chunk.css.map": "/Project-9---Front-End-Event-App/static/css/main.dccd1fea.chunk.css.map",
+    "static/js/2.fcb46e98.chunk.js.LICENSE.txt": "/Project-9---Front-End-Event-App/static/js/2.fcb46e98.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Project-9---Front-End-Event-App/static/media/event image 1.33ef4db5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9a7bfc.js",
+    "static/js/2.fcb46e98.chunk.js",
+    "static/css/main.dccd1fea.chunk.css",
+    "static/js/main.396e49df.chunk.js"
+  ]
+}

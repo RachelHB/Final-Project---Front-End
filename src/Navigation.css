@@ -1,0 +1,38 @@
+
+
+:root {
+    --primary:#29395a;
+    --secondary:#405780;
+    --third:#9ab6ff;
+    --forth:#ffc885;
+    --fith:#f85800;
+  
+    --sixth:#30405c;
+    --seventh:#4495aa;
+    --eighth:#96a4c9;
+    --ninth:#f3b546;
+    --tenth:#f27659;
+  }
+  
+  
+  body {
+    height:1010px;
+  
+      background-color:  var(--primary);
+               
+                  /* animation: gradient 10s ease infinite; */
+    }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&family=Poppins:wght@200;300;400;500;600&display=swap');
+  
+  
+
+/* /*****Navigation CSS***************************************************************************************************************************/
+
+.header {
+
+    background-color:  var(--ninth);
+    padding:10px;
+    max-width: auto;
+    font-family: poppins;
+  }

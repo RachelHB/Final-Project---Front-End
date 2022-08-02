@@ -1,0 +1,113 @@
+
+
+.fileUploadI {
+    width: 87%;
+  
+
+}
+
+.frontback {
+  position:absolute;
+  z-index:-1;
+}
+
+
+.fileUploadC {
+    width: 87%;
+}
+
+#submit {
+margin-top: 50px;
+margin-left: -170px;
+margin-bottom: 50px;
+}
+
+.inputForm {
+  font-size: 12px;
+  font-family: poppins;
+  width: 55%;
+}
+
+.inputFormlrg {
+
+  font-size: 12px;
+  font-family: poppins;
+  width: 92%;
+
+
+}
+
+.inputFormlrgB {
+  margin-top: 11px;
+  font-size: 12px;
+  font-family: poppins;
+  width: 92%;
+
+
+}
+
+.multi-select {
+  /* height: 25%; */
+  color:black;
+}
+
+.Container {
+
+  width: 100%;
+}
+
+.addForm {
+  font-family: poppins;
+  font-size: 14px;
+  width: 100%;
+  display:inline-flex;
+
+}
+
+.form-col-one{
+  width: 50%;
+  justify-content: center;
+  color: white;
+  padding-left: 30px;  
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 14px;
+  border-radius: 10px;
+} 
+
+.form-col-two{
+  padding-left: 30px;  
+  width: 50%; 
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 14px;
+  color: white;
+  border-radius: 10px;
+} 
+
+
+.submit2 {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.updatebutton {
+
+  background-color:var(--ninth);
+  border: var(--primary) solid;
+  border-width: 5px;
+  border-radius: 50px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  font-size: 16px;
+  font-family: poppins;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  /* width: 15% ; */
+
+}
+
