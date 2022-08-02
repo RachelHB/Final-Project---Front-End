@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/RachelHB/Final-Project---Front-End.git/static/css/main.09b51a81.chunk.css",
-    "main.js": "/RachelHB/Final-Project---Front-End.git/static/js/main.cc7533c8.chunk.js",
-    "main.js.map": "/RachelHB/Final-Project---Front-End.git/static/js/main.cc7533c8.chunk.js.map",
-    "runtime-main.js": "/RachelHB/Final-Project---Front-End.git/static/js/runtime-main.f9d4a34c.js",
-    "runtime-main.js.map": "/RachelHB/Final-Project---Front-End.git/static/js/runtime-main.f9d4a34c.js.map",
-    "static/css/2.e5cecc0c.chunk.css": "/RachelHB/Final-Project---Front-End.git/static/css/2.e5cecc0c.chunk.css",
-    "static/js/2.b4c63c06.chunk.js": "/RachelHB/Final-Project---Front-End.git/static/js/2.b4c63c06.chunk.js",
-    "static/js/2.b4c63c06.chunk.js.map": "/RachelHB/Final-Project---Front-End.git/static/js/2.b4c63c06.chunk.js.map",
-    "index.html": "/RachelHB/Final-Project---Front-End.git/index.html",
-    "precache-manifest.9bd9061dccaf3ec526e86bdbcae3c0e2.js": "/RachelHB/Final-Project---Front-End.git/precache-manifest.9bd9061dccaf3ec526e86bdbcae3c0e2.js",
-    "service-worker.js": "/RachelHB/Final-Project---Front-End.git/service-worker.js",
-    "static/css/2.e5cecc0c.chunk.css.map": "/RachelHB/Final-Project---Front-End.git/static/css/2.e5cecc0c.chunk.css.map",
-    "static/css/main.09b51a81.chunk.css.map": "/RachelHB/Final-Project---Front-End.git/static/css/main.09b51a81.chunk.css.map",
-    "static/js/2.b4c63c06.chunk.js.LICENSE.txt": "/RachelHB/Final-Project---Front-End.git/static/js/2.b4c63c06.chunk.js.LICENSE.txt",
-    "static/media/LinkedInLogo.png": "/RachelHB/Final-Project---Front-End.git/static/media/LinkedInLogo.f42257c1.png",
-    "static/media/Portfolio.png": "/RachelHB/Final-Project---Front-End.git/static/media/Portfolio.ce374ec4.png",
-    "static/media/TDA Logo.jpg": "/RachelHB/Final-Project---Front-End.git/static/media/TDA Logo.6d737825.jpg"
+    "main.css": "/Final-Project---Front-End/static/css/main.09b51a81.chunk.css",
+    "main.js": "/Final-Project---Front-End/static/js/main.dd2d7b64.chunk.js",
+    "main.js.map": "/Final-Project---Front-End/static/js/main.dd2d7b64.chunk.js.map",
+    "runtime-main.js": "/Final-Project---Front-End/static/js/runtime-main.7471dbd3.js",
+    "runtime-main.js.map": "/Final-Project---Front-End/static/js/runtime-main.7471dbd3.js.map",
+    "static/css/2.e5cecc0c.chunk.css": "/Final-Project---Front-End/static/css/2.e5cecc0c.chunk.css",
+    "static/js/2.b4c63c06.chunk.js": "/Final-Project---Front-End/static/js/2.b4c63c06.chunk.js",
+    "static/js/2.b4c63c06.chunk.js.map": "/Final-Project---Front-End/static/js/2.b4c63c06.chunk.js.map",
+    "index.html": "/Final-Project---Front-End/index.html",
+    "precache-manifest.096aebddcce4b01b88cf6e36a7f0c200.js": "/Final-Project---Front-End/precache-manifest.096aebddcce4b01b88cf6e36a7f0c200.js",
+    "service-worker.js": "/Final-Project---Front-End/service-worker.js",
+    "static/css/2.e5cecc0c.chunk.css.map": "/Final-Project---Front-End/static/css/2.e5cecc0c.chunk.css.map",
+    "static/css/main.09b51a81.chunk.css.map": "/Final-Project---Front-End/static/css/main.09b51a81.chunk.css.map",
+    "static/js/2.b4c63c06.chunk.js.LICENSE.txt": "/Final-Project---Front-End/static/js/2.b4c63c06.chunk.js.LICENSE.txt",
+    "static/media/LinkedInLogo.png": "/Final-Project---Front-End/static/media/LinkedInLogo.f42257c1.png",
+    "static/media/Portfolio.png": "/Final-Project---Front-End/static/media/Portfolio.ce374ec4.png",
+    "static/media/TDA Logo.jpg": "/Final-Project---Front-End/static/media/TDA Logo.6d737825.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9d4a34c.js",
+    "static/js/runtime-main.7471dbd3.js",
     "static/css/2.e5cecc0c.chunk.css",
     "static/js/2.b4c63c06.chunk.js",
     "static/css/main.09b51a81.chunk.css",
-    "static/js/main.cc7533c8.chunk.js"
+    "static/js/main.dd2d7b64.chunk.js"
   ]
 }
