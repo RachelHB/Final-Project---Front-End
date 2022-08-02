@@ -22,7 +22,7 @@
     "react-scripts": "3.4.1"
   },
 
-  "homepage": "https://github.com/RachelHB/Final-Project---Front-End.git",
+  "homepage": "https://rachelhb.github.io/Final-Project---Front-End/",
   "scripts": {
 
     "predeploy": "npm run build",
